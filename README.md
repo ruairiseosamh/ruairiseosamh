@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ruairiseosamh
 - 👀 I’m interested in Machine Learning, Python and Computer Vision.
 - 🌱 I’m currently learning about Automated Video Colourisation.
-- 💞️ I’m looking to collaborate on Diffusion projects.
+- 🤝 I’m looking to collaborate on Diffusion projects.
 - 📫 How to reach me R.Ward15@nuigalway.ie
 
 <!---
